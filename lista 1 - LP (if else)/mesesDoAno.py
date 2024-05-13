@@ -1,0 +1,16 @@
+num = int(input('Digite um número: '))
+
+if num == 1: print('O mês 1 corresponde a Janeiro')
+elif num == 2: print('O mês 2 corresponde a Fevereiro')
+elif num == 3: print('O mês 3 corresponde a Março')
+elif num == 4: print('O mês 04 corresponde a Abril')
+elif num == 5: print('O mês 05 corresponde a Maio')
+elif num == 6: print('O mês 06 corresponde a Junho')
+elif num == 7: print('O mês 07 corresponde a Julho')
+elif num == 8: print('O mês 08 corresponde a Agosto')
+elif num == 9: print('O mês 09 corresponde a Setembro')
+elif num == 10: print('O mês 10 corresponde a Outubro')
+elif num == 11: print('O mês 11 corresponde a Novembro')
+elif num == 12: print('O mês 12 corresponde a Dezembro')
+else:
+    print('Não existe um mês válido')
